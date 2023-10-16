@@ -38,7 +38,7 @@
 
       ],
       [
-        'mozRequestFullScreen',mut
+        'mozRequestFullScreen',
         'mozCancelFullScreen',
         'mozFullScreenElement',
         'mozFullScreenEnabled',
